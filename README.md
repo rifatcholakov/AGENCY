@@ -1,4 +1,4 @@
-# AGENCY
+# Agency
 HTML template which demonstrates working with JQuery and JQuery Plugins
 
 # Features
