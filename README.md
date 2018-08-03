@@ -7,7 +7,7 @@ HTML template which demonstrates working with JQuery and JQuery Plugins
 * Sticky header(achived using [Sticky](http://stickyjs.com/))
 
 # Demo
-https://rifatcholakov.github.io/AGENCY/
+https://rifatcholakov.github.io/Agency/
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details
