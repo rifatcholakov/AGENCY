@@ -1,5 +1,6 @@
 # Agency
 HTML template which demonstrates working with JQuery and JQuery Plugins
+<img src="https://i.imgur.com/Ap1ogsH.png" />
 
 # Features
 * Animated page transition(achieved using [Animsition](http://git.blivesta.com/animsition/))
